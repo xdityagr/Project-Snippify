@@ -87,15 +87,14 @@ snippet_obj.OpenSnippet(uid='12345abcd')
 ```
 
 ## License
-Snippify is licensed under the GPL License. See the LICENSE file for more details.
+
+This project is licensed under the [GPL License](LICENSE).
 
 ## Contact
-For any questions, feature requests, or issues, please contact:
 
-Author: **Aditya Gaur**
+For questions or feedback, please contact:
 
-Email: adityagaur.home@gmail.com
+- **Email**: adityagaur.home@gmail.com
+- **GitHub**: [xdityagr](https://github.com/xdityagr)
 
-GitHub: https://github.com/xdityagr/
-
-Feel free to open issues or pull requests on GitHub for any improvements or bug fixes.
+Enjoy using **Snippify!** Made with _<3_ In **India!**
