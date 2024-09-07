@@ -23,7 +23,7 @@ Install Snippify and its dependencies using `pip`:
 pip install Snippify
 ```
 ## Usage
-- Check out the example [here](src/examples/example.py)
+- Check out the detailed example [here](src/examples/example.py).
   
 ### 1. Listing All Snippets
 
