@@ -23,7 +23,8 @@ Install Snippify and its dependencies using `pip`:
 pip install Snippify
 ```
 ## Usage
-
+- Check out the example [here](src/examples/example.py)
+  
 ### 1. Listing All Snippets
 
 View all the snippets in a well-structured table format, complete with names and unique IDs. You can also quickly copy a snippet by selecting its index.
