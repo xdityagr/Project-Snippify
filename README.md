@@ -20,11 +20,7 @@
 Install Snippify and its dependencies using `pip`:
 
 ```bash
-pip install -r requirements.txt
-```
-
-```bash
-pip install Snippify==1.0.1
+pip install Snippify
 ```
 ## Usage
 
