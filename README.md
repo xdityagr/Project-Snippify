@@ -65,8 +65,7 @@ snippet_obj.OpenSnippet(uid='bb8fa2ad80bf799465')
 ## Example Code
 Here’s an example of how to create and list snippets using Snippify:
 
-```
-python
+```python
 from Snippify.core.snippet import Snippet
 
 snippet_obj = Snippet()
