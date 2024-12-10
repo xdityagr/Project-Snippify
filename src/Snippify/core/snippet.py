@@ -108,14 +108,5 @@ class Snippet:
         Opener = SerializedSnipOpen()
         Opener.all()
         return 
-            
-
-    # def OpenWithIdentifier(self, uid):
-    #     Opener = SerializedSnipOpen()
-    #     Opener.ByUid(uid)
-
-    # def SearchBy(self, name=None, date_created=None, author=None, taken_from=None):
-    #     pass
-
 
             
